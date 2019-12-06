@@ -94,7 +94,7 @@ header p{
 */
 
 .snow1 {
-  background: url("./images/snowfall.jpg");
+  background: url("../images/snowfall.jpg");
   background-repeat: repeat;
   width: 100%;
   height: 650px;
@@ -125,7 +125,7 @@ header p{
        animation: animation2 2s infinite;
 }*/
 .snow2{
-    background: url("./images/snowfall.jpg");
+    background: url("../images/snowfall.jpg");
     background-repeat: repeat;
     width: 100%;
     height: 650px;
